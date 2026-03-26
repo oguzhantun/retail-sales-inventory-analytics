@@ -1,0 +1,9 @@
+store_id,store_name,city,country,store_type,size_sqm
+ST001,Istanbul Flagship,Istanbul,Turkey,Flagship,2500
+ST002,Ankara Central,Ankara,Turkey,Standard,1200
+ST003,Cairo Mall,Cairo,Egypt,Standard,1100
+ST004,Dubai Marina,Dubai,UAE,Premium,1800
+ST005,Riyadh Centre,Riyadh,Saudi Arabia,Standard,1300
+ST006,Moscow Mega,Moscow,Russia,Flagship,2200
+ST007,Warsaw Old Town,Warsaw,Poland,Standard,900
+ST008,Kyiv Fashion,Kyiv,Ukraine,Standard,1000

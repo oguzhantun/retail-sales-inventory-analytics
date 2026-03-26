@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,lead_time_days,reliability_score
+SUP001,Istanbul Textile Co,Turkey,14,92
+SUP002,Bangladesh Garments Ltd,Bangladesh,28,78
+SUP003,China Fashion Group,China,21,85
+SUP004,Vietnam Apparel Co,Vietnam,25,88
+SUP005,India Fabrics Ltd,India,18,82
+SUP006,Egypt Cotton Works,Egypt,16,90
+SUP007,Morocco Style House,Morocco,12,94
+SUP008,Pakistan Textiles,Pakistan,22,80
