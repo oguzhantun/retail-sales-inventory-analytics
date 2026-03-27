@@ -18,10 +18,10 @@ Built to demonstrate skills in SQL, Python (Pandas), and Microsoft Power BI — 
 ![Sales Overview](page1_sales.png)
 
 ### Page 2 — Inventory & Suppliers
-![Inventory and Suppliers](page2_inventory.png)
+![Inventory and Suppliers](page2_sales.png)
 
 ### Page 3 — Product Analysis
-![Product Analysis](page3_products.png)
+![Product Analysis](page3_sales.png)
 
 ---
 
@@ -113,7 +113,7 @@ Load all CSV files into any SQL database (PostgreSQL, SQLite, or SQL Server) and
 
 ## About
 
-**Oguz Tuncel** — Data Analyst | Business Analyst | Power BI Developer
+**Oguz Tuncel** — Data Analyst | Continuous Improvement | Power BI Developer
 
 - LinkedIn: https://linkedin.com/in/oguztuncel
 - Email: ogzhantuncell@gmail.com
