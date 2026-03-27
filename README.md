@@ -8,8 +8,7 @@ Built to demonstrate skills in SQL, Python (Pandas), and Microsoft Power BI — 
 
 ## Live Power BI Dashboard
 
-[View Interactive Dashboard on Power BI Service]([([https://app.powerbi.com/groups/56bc1f5b-f2b6-41f4-8d8c-f7ff4c4dd2bc/reports/cb15c0a9-794a-48ac-a4e6-1d0ee4eb0958?ctid=66e44254-c0ce-4745-9255-907eee03faf6&pbi_source=linkShare])])
-
+[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/71156bbb-2668-49ad-a42e-a4db44ec0e98/reports/99bf88c7-f6e4-4dd5-848d-8236e49ffb10?ctid=66e44254-c0ce-4745-9255-907eee03faf6&pbi_source=linkShare)
 ---
 
 ## Dashboard Preview
